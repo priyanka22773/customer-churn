@@ -2,7 +2,7 @@
 
 A machine learning project that predicts which telecom customers are likely to leave (churn), built with Python and Scikit-learn. It covers data cleaning, EDA, feature engineering, class-imbalance handling, model comparison with cross-validation, hyperparameter tuning, and a Streamlit app for single-customer predictions.
 
-**Author:** Priyanka Ghulannavar | [GitHub](https://github.com/priyanka22773) | [LinkedIn](www.linkedin.com/in/priyanka-ghulannavar-63930926b)
+**Author:** Priyanka Ghulannavar | [GitHub](https://github.com/priyanka22773) | [[LinkedIn](www.linkedin.com/in/priyanka-ghulannavar-63930926b)]
 
 ## Problem
 Winning a new customer usually costs more than keeping an existing one. If a telecom company can identify customers who are likely to leave, it can offer them targeted retention deals before they go. This project trains a classifier to predict churn from customer demographics, services, contract and billing data.
